@@ -29,7 +29,8 @@
 - Chef 
 - Ansible
 - Powershell DSC
-- Puppet
+- [Puppet](https://puppet.com/blog-tags/windows)
+- [Rundeck](http://rundeck.org/index.html)
 
 ### Cloud Platforms
 - Azure
