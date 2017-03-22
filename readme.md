@@ -62,4 +62,5 @@
     - [Setup a Windows Docker CI with AppVeyor](https://stefanscherer.github.io/setup-windows-docker-ci-appveyor/)
     - [Is there a Windows Docker image for ...?](https://stefanscherer.github.io/is-there-a-windows-docker-image-for/)
     - [Getting started with Docker Swarm-mode on Windows 10](https://stefanscherer.github.io/docker-swarm-mode-windows10/)
+    - [Getting started with Windows Containers](http://glennsarti.github.io/blog/getting-started-with-windows-containers/)
     
