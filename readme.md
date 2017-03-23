@@ -4,6 +4,9 @@
 
 This index is in an effort to better help direct people new to the winops sphere to see what options are available. This is by no means telling you how to go about automating or architecting your environment in terms of tools. This is just a list of tools and resources I have found useful in my day to day, and has offered me a great foundation to better do my job. 
 
+## Contributing
+
+Please feel free to branch and PR into here, I would love to keep this a living breathing Document
 
 ## Resources
 
