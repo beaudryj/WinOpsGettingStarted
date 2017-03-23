@@ -2,16 +2,16 @@
 
 ## Getting Started 
 
-
+This index is in an effort to better help direct people new to the winops sphere to see what options are available. This is by no means telling you how to go about automating or architecting your environment in terms of tools. This is just a list of tools and resources I have found useful in my day to day, and has offered me a great foundation to better do my job. 
 
 
 ## Resources
 
 ### Testing Frameworks for Infra and Scripts 
 
-- PSScriptAnalyzer
-- Pester
-- PoshSpec (Open Source Pester DSL for infratesting - Like ServerSpec) 
+- [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
+- [Pester](https://github.com/pester/Pester) - Pre-Installed on Windows 10/Server2016
+- [PoshSpec](https://github.com/Ticketmaster/poshspec) (Open Source Pester DSL for infratesting - Like ServerSpec) 
 
 ### Deployment Tools  
  - [Octopus Deploy](https://octopus.com/) 
@@ -19,16 +19,18 @@
 - MsBuild
 
 
-### CI/CD Systems 
-- Jenkins
-- Teamcity
+### CI/CD Systems - Orchestration
+- [Jenkins](https://jenkins.io/)
+- [Teamcity](https://www.jetbrains.com/teamcity/)
 - VSTS (Visual Studio Team Services)  
 - AppVeyor
+- AzureAutomation
+
 
 ### Config Mgmt Tools
-- Chef 
-- Ansible
-- Powershell DSC
+- [Chef](https://www.chef.io/chef/)
+- [Ansible](https://www.ansible.com/windows)
+- [Powershell DSC](https://msdn.microsoft.com/en-us/powershell/dsc/overview)
 - [Puppet](https://puppet.com/blog-tags/windows)
 - [Rundeck](http://rundeck.org/index.html)
 
@@ -40,12 +42,15 @@
 ### Monitoring Tools
 - New Relic
 - Graphite
+- Microsoft OMS
 
 
 ## Blogs + References 
 
 - Setting up Powershell Environment 
     - [Ultimate PowerShell Prompt Customization](https://hodgkins.io/ultimate-powershell-prompt-and-git-setup)
+- CI/CD Pipelines with Powershell 
+    - [Fun with Github, Pester, and AppVeyor](http://ramblingcookiemonster.github.io/GitHub-Pester-AppVeyor/)
 - Packer + Windows
     - [Best Practices with Packer and Windows](https://hodgkins.io/best-practices-with-packer-and-windows)
     - [Creating windows base images using Packer and Boxstarter](http://www.hurryupandwait.io/blog/creating-windows-base-images-for-virtualbox-and-hyper-v-using-packer-boxstarter-and-vagrant)
